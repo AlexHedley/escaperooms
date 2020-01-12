@@ -4,9 +4,13 @@
             "name":"Fiorella's Cave",
             "description":"Work through the adventurer's secret cave, recover the treasure and escape before it's too late...",
             "time":"64:48",
+            "date":"8th January 2020",
             "link":"https://www.exit-newcastle.co.uk/the-games/fiorellas-cave/",
             "image":"images/FiorellasCave_TeamPhoto.jpg",
-            "category":"EXIT"
+            "difficulty": "Challenging",
+            "suggested_players": "2 – 6 Players",
+            "players": "3",
+            "venue":"EXIT"
         }
     ]
 }

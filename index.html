@@ -21,7 +21,7 @@
     <!-- Fonts -->
     <!-- <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'> -->
 
-    <title>Funko Pop!</title>
+    <title>Escape Rooms</title>
   </head>
   <body ng-app="myApp">
     
@@ -59,6 +59,9 @@
                                 <h5 class="card-title">{{game.name}} <span class="badge badge-secondary">{{game.time}}</span></h5>
                                 <p class="card-text">{{game.description}}</p>
                                 <a ng-href="{{game.link}}" target="_blank" class="btn btn-dark">Official Link</a>
+                                <p class="card-text">{{game.difficulty}}</p>
+                                <p class="card-text">{{game.suggested_players}} -> {{game.players}}</p>
+                                <p class="card-text">{{game.venue}}</p>
                             </div>
                         </div>
                     </div>
