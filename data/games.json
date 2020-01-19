@@ -38,6 +38,21 @@
             "suggested_players": "2–6 Players.",
             "players": "3",
             "venue":"Escape"
+        },
+        {
+            "name":"King Tut's Tomb",
+            "description":"King Tut the ruler of Egypt built a hidden temple in the desert to store his enormous wealth. For protection he created rooms and puzzles to test skill, mental and physical abilities.",
+            "time":"37 mins",
+            "date":"4th December 2017",
+            "link":"https://www.nevergiveupnewcastle.co.uk/games/king-tuts-tomb/",
+            "image":"images/KingTutsTomb.jpg",
+            "team_photo":"images/KingTutsTomb_TeamPhoto.jpg",
+            "difficulty": "60%",
+            "success_rate": "65%",
+            "suggested_players": "2–12 Players.",
+            "players": "8",
+            "venue":"Never Give Up"
         }
+        
     ]
 }
