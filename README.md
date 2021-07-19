@@ -26,6 +26,12 @@ If you wish to help out and add any extra functionality please do open a [PR](ht
 
 And don't forget to add yourself to the [CONTRIBUTORS](CONTRIBUTORS.md) file.
 
+## Run
+
+`py -m http.server`
+
+- [local](http://localhost:8000/)
+
 ## License
 
 - [MIT License](LICENSE)
