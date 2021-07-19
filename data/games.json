@@ -1,6 +1,20 @@
 {
     "games": [
         {
+            "name":"The Fourth Samurai",
+            "description":"To win freedom, the mind must be sharper than the sword",
+            "time":"42:24",
+            "date":"17th July 2021",
+            "link":"https://escapehunt.com/uk/edinburgh/games/the-fourth-samurai/",
+            "image":"images/TheFourthSamurai.jpg",
+            "team_photo":"images/TheFourthSamurai_TeamPhoto.jpg",
+            "difficulty": "",
+            "success_rate": "",
+            "suggested_players": "2–6 Players",
+            "players": "3",
+            "venue":"Escape Hunt"
+        },
+        {
             "name":"221B BAKER STREET",
             "description":"Our Sherlock themed escape room will offer an interesting challenge for new and returning players alike. Having been enlisted by Moriarty, your task is to break into 221B Baker Street, defeat the failsafes and retrieve an item of importance to Sherlock. Hurry though, Sherlock and Dr Watson are hot on your tail…",
             "time":"47:02",
