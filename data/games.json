@@ -49,7 +49,6 @@
             "link":"https://www.pirateescaperooms.co.uk/TheGame",
             "image":"images/ForbiddenJungle_PE.jpg",
             "team_photo":"images/ForbiddenJungle_TeamPhoto.jpg",
-            "difficulty": "Challenging",
             "suggested_players": "2 – 7 Players.",
             "players": "5",
             "venue":"Pirate Escape"
@@ -93,6 +92,18 @@
             "suggested_players": "2–12 Players.",
             "players": "8",
             "venue":"Never Give Up"
+        },
+        {
+            "name":"The Mutiny",
+            "description":"A mutiny has broken out on the Queen Anne’s Revenge. You are the last remaining crew loyal to the captain but the mutineers have locked you below deck in the ships galley and are planning to sink the ship. Thankfully the captain has left you a trail of puzzles to help you escape, but you only have 60 minutes to solve them all before the ship sinks!",
+            "time":"53:14",
+            "date":"10th March 2017",
+            "link":"https://www.pirateescaperooms.co.uk/TheGame",
+            "image":"images/TheMutiny.jpg",
+            "team_photo":"images/TheMutiny_TeamPhoto.jpg",
+            "suggested_players": "2–6 Players.",
+            "players": "5",
+            "venue":"Pirate Escape"
         },
         {
             "name":"Da Vinci Room",
