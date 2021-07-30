@@ -117,7 +117,7 @@
                                     <img ng-src="/escaperooms/{{game.image}}" class="card-img-top" alt="{{game.name}}">
                                     <div class="card-body">
                                         <h5 class="card-title">{{game.name}} <span class="badge badge-secondary">{{game.time}}</span></h5>
-                                        <p class="card-text">{{game.description}}</p>
+                                        <p class="card-text">{{game.description.substring(0, 200)}}</p>
                                         <a ng-href="{{game.link}}" target="_blank" class="btn btn-dark">Official Link</a>
                                         <p class="card-text">{{game.difficulty}}</p>
                                         <p class="card-text">{{game.suggested_players}} -> {{game.players}}</p>

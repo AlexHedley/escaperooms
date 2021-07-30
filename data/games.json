@@ -42,6 +42,19 @@
             "venue":"EXIT"
         },
         {
+            "name":"Forbidden Jungle",
+            "description":"A Shaman has been casting spells on Pirates for centuries to steal their treasure and ships. He enchants them to enter The Pirate’s Forbidden Jungle where Pirates can lose their minds and get lost from one another. For too long has he got away with stealing from Pirates using these spells. In this family friendly game, you must all work together to solve the puzzles and clues to find the Shaman’s haul of treasure and escape The Pirate’s Forbidden Jungle. You will have 60 minutes to complete the challenge before the Shaman's spell takes effect.",
+            "time":"51:03",
+            "date":"28th July 2019",
+            "link":"https://www.pirateescaperooms.co.uk/TheGame",
+            "image":"images/ForbiddenJungle_PE.jpg",
+            "team_photo":"images/ForbiddenJungle_TeamPhoto.jpg",
+            "difficulty": "Challenging",
+            "suggested_players": "2 – 7 Players.",
+            "players": "5",
+            "venue":"Pirate Escape"
+        },
+        {
             "name":"Volatile Laboratories",
             "description":"A top-secret lab has gone into lockdown after contamination from a deadly neurotoxin. You and your team are called in to recover the antidote and save those who worked in the lab. The problem? As soon as you enter the lab you have 60 minutes before the poison kills you.",
             "time":"41:06",
