@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name":"Contagion",
+            "description":"The world has been infected with a deadly virus. You must find a way to defeat the laboratory lockdown and retrieve the vaccine. The timer is set to 60 minutes, after which all samples of the cure will be incinerated.\nGet your white coat and your safety goggles on as you prepare for Contagion…",
+            "time":"27:58",
+            "date":"2nd December 2021",
+            "link":"https://www.escape.game/games",
+            "image":"images/Contagion.jpg",
+            "team_photo":"images/Contagion_TeamPhoto.jpg",
+            "difficulty": "",
+            "suggested_players": "",
+            "players": "4",
+            "venue":"Escape"
+        },
+        {
             "name":"The Fourth Samurai",
             "description":"To win freedom, the mind must be sharper than the sword",
             "time":"42:24",
@@ -48,7 +61,7 @@
             "date":"28th July 2019",
             "link":"https://www.pirateescaperooms.co.uk/TheGame",
             "image":"images/ForbiddenJungle_PE.jpg",
-            "team_photo":"images/ForbiddenJungle_TeamPhoto.jpg",
+            "team_photo":"images/ForbiddenJungle_TeamPhoto.jpeg",
             "suggested_players": "2 – 7 Players.",
             "players": "5",
             "venue":"Pirate Escape"
