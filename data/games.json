@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name":"The Cabin",
+            "description":"If you go down to the woods today you are in for a big surprise...\nYou’re walking in the woods. There’s no one around and your phone is dead. Out of the corner of your eye you spot it: The Cabin. But is it as safe as it first appears? Abandoned and forgotten deep in the dark woods... What dangers await you inside?",
+            "time":"42:25",
+            "date":"25th January 2022",
+            "link":"https://www.escape.game/games",
+            "image":"images/TheCabin.jpg",
+            "team_photo":"images/TheCabin_TeamPhoto.jpg",
+            "difficulty": "****",
+            "suggested_players": "2-5",
+            "players": "4",
+            "venue":"Escape"
+        },
+        {
             "name":"Contagion",
             "description":"The world has been infected with a deadly virus. You must find a way to defeat the laboratory lockdown and retrieve the vaccine. The timer is set to 60 minutes, after which all samples of the cure will be incinerated.\nGet your white coat and your safety goggles on as you prepare for Contagion…",
             "time":"27:58",
@@ -8,8 +21,8 @@
             "link":"https://www.escape.game/games",
             "image":"images/Contagion.jpg",
             "team_photo":"images/Contagion_TeamPhoto.jpg",
-            "difficulty": "",
-            "suggested_players": "",
+            "difficulty": "***",
+            "suggested_players": "2-5",
             "players": "4",
             "venue":"Escape"
         },
