@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name":"Dead Man's Hand",
+            "description":"You are visiting the cowboy-themed amusement park Western World where the robotic 'hosts' have begun to malfunction and kill off the guests! After barricading yourself inside the Saloon you've found a backdoor protected by a hand scanner. The scanner will only open using the park owner's handprint but the hosts have sealed this away in the saloon's safe. You have one hour before they manage to break in- can you find the Dead Man's Hand?",
+            "time":"49:09",
+            "date":"10th April 2022",
+            "link":"https://www.escape.game/games",
+            "image":"images//DeadMansHand.jpg",
+            "team_photo":"images/DeadMansHand_TeamPhoto.jpg",
+            "difficulty": "****",
+            "suggested_players": "2-6",
+            "players": "4",
+            "venue":"Escape"
+        },
+        {
             "name":"The Cabin",
             "description":"If you go down to the woods today you are in for a big surprise...\nYou’re walking in the woods. There’s no one around and your phone is dead. Out of the corner of your eye you spot it: The Cabin. But is it as safe as it first appears? Abandoned and forgotten deep in the dark woods... What dangers await you inside?",
             "time":"42:25",
