@@ -13,6 +13,22 @@
             "players": "4",
             "venue": "Escape"
         },
+
+        {
+            "name": "Witch",
+            "description": "The Witch Escape Room takes you back to the notorious witch trials of 1650 when townsfolk were rounded up, tried and hanged in nearby Gallowgate.",
+            "time": "51:45",
+            "date": "19th May 2024",
+            "link": "https://www.escape-key.co.uk/witch-escape-room",
+            "image": "images/Witch.png",
+            "team_photo": "images/Witch_TeamPhoto.jpg",
+            "difficulty": "8.5",
+            "notes": "Chambers: 3 | Combination Locks: 0 | Electronic Puzzles: 13 | Total Puzzles: 21",
+            "suggested_players": "",
+            "players": "3",
+            "venue": "Escape Key"
+        },
+
         {
             "name": "Dead Man's Hand",
             "description": "You are visiting the cowboy-themed amusement park Western World where the robotic 'hosts' have begun to malfunction and kill off the guests! After barricading yourself inside the Saloon you've found a backdoor protected by a hand scanner. The scanner will only open using the park owner's handprint but the hosts have sealed this away in the saloon's safe. You have one hour before they manage to break in- can you find the Dead Man's Hand?",
