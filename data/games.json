@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name": "The Anatomist",
+            "description": "et on the edge of Edinburgh's old surgical district, The Anatomist is an award winning escape game that invites you to descend into a world of grave robbery, mystery and malpractice as you enter the basement study of a 19th century anatomist.",
+            "time": "43:24",
+            "date": "12th August 2024",
+            "link": "https://www.escapethepast.co.uk/",
+            "image": "images/TheAnatomist.jpg",
+            "team_photo": "images/TheAnatomist_TeamPhoto.jpg",
+            "difficulty": "Moderate",
+            "suggested_players": "2-7",
+            "players": "4",
+            "venue": "Escape The Past"
+        },
+        {
             "name": "The Bank Heist",
             "description": "Assemble your crack team of  thieves, navigate the security systems in the bank and escape with as much money from the vault as you can before the cops show up.",
             "time": "£43,000",
@@ -13,7 +26,6 @@
             "players": "4",
             "venue": "Escape"
         },
-
         {
             "name": "Witch",
             "description": "The Witch Escape Room takes you back to the notorious witch trials of 1650 when townsfolk were rounded up, tried and hanged in nearby Gallowgate.",
@@ -28,7 +40,6 @@
             "players": "3",
             "venue": "Escape Key"
         },
-
         {
             "name": "Dead Man's Hand",
             "description": "You are visiting the cowboy-themed amusement park Western World where the robotic 'hosts' have begun to malfunction and kill off the guests! After barricading yourself inside the Saloon you've found a backdoor protected by a hand scanner. The scanner will only open using the park owner's handprint but the hosts have sealed this away in the saloon's safe. You have one hour before they manage to break in- can you find the Dead Man's Hand?",
