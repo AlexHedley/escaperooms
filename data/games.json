@@ -1,8 +1,21 @@
 {
     "games": [
         {
+            "name": "The Magic Emporium",
+            "description": "Three days ago a well renowned supplies shop for all budding wizards closed for the day. However inexplicably the shop never opened again. Sensing that forces of evil are at work you have decided that you are going to investigate the mystery behind Ms Garbo's disappearance. Don't get caught!",
+            "time": "50 mins",
+            "date": "22nd March 2025",
+            "link": "https://www.escape.game/games",
+            "image": "images/TheMagicEmporium.jpg",
+            "team_photo": "images/TheMagicEmporium_TeamPhoto.jpg",
+            "difficulty": "35%",
+            "suggested_players": "2-6",
+            "players": "4",
+            "venue": "Escape"
+        },
+        {
             "name": "The Anatomist",
-            "description": "et on the edge of Edinburgh's old surgical district, The Anatomist is an award winning escape game that invites you to descend into a world of grave robbery, mystery and malpractice as you enter the basement study of a 19th century anatomist.",
+            "description": "Set on the edge of Edinburgh's old surgical district, The Anatomist is an award winning escape game that invites you to descend into a world of grave robbery, mystery and malpractice as you enter the basement study of a 19th century anatomist.",
             "time": "43:24",
             "date": "12th August 2024",
             "link": "https://www.escapethepast.co.uk/",
