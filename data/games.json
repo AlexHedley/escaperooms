@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name": "The Arcade",
+            "description": "You were just about to hit the high score on the retro arcade game “Time Jump”, when suddenly a power surge sends you back to 1987. You have one hour to find your way back to the future, or you’ll be trapped in the past!",
+            "time": "50:20",
+            "date": "6th April 2025",
+            "link": "https://www.escape.game/games",
+            "image": "images/TheArcade.jpg",
+            "team_photo": "images/TheArcade_TeamPhoto.jpg",
+            "difficulty": "53%",
+            "suggested_players": "2-6",
+            "players": "3",
+            "venue": "Escape"
+        },
+        {
             "name": "The Magic Emporium",
             "description": "Three days ago a well renowned supplies shop for all budding wizards closed for the day. However inexplicably the shop never opened again. Sensing that forces of evil are at work you have decided that you are going to investigate the mystery behind Ms Garbo's disappearance. Don't get caught!",
             "time": "50 mins",
