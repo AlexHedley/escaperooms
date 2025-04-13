@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name": "Taken: Play The Game",
+            "description": "Your friend has been missing for days, believed to have been taken by the notorious Jester serial killer. You have followed the clues which have led you to an abandoned TV Studio. Can you play the Jester's game and free the hostage, or will you be his next victim?",
+            "time": "51:00",
+            "date": "12th April 2025",
+            "link": "https://www.escape.game/games",
+            "image": "images/TakenPlayTheGame.jpg",
+            "team_photo": "images/TakenPlayTheGame_TeamPhoto.jpg",
+            "difficulty": "42%",
+            "suggested_players": "2-6",
+            "players": "4",
+            "venue": "Escape"
+        },
+        {
             "name": "The Arcade",
             "description": "You were just about to hit the high score on the retro arcade game “Time Jump”, when suddenly a power surge sends you back to 1987. You have one hour to find your way back to the future, or you’ll be trapped in the past!",
             "time": "50:20",
