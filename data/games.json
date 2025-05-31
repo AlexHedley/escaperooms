@@ -1,6 +1,22 @@
 {
     "games": [
         {
+            "name": "Electric City",
+            "description": "Newcastle upon Tyne, the first city in the world to be lit by electricity. But dark forces are determined to ensure that it never sees the light of day.",
+            "time": "50:22",
+            "date": "24th May 2025",
+            "link": "https://www.escape-key.co.uk/our-escape-rooms",
+            "image": "images/ElectricCity.jpg",
+            "team_photo": "images/ElectricCity_TeamPhoto.jpg",
+            "difficulty": "8.5/10",
+            "chambers": "5",
+            "puzzles": "21",
+            "electric_puzzles": "17",
+            "combination_locks": "4",
+            "players": "5",
+            "venue": "Escape Key"
+        },
+        {
             "name": "Taken: Play The Game",
             "description": "Your friend has been missing for days, believed to have been taken by the notorious Jester serial killer. You have followed the clues which have led you to an abandoned TV Studio. Can you play the Jester's game and free the hostage, or will you be his next victim?",
             "time": "51:00",
@@ -71,7 +87,7 @@
             "time": "51:45",
             "date": "19th May 2024",
             "link": "https://www.escape-key.co.uk/witch-escape-room",
-            "image": "images/Witch.png",
+            "image": "images/Witch.jpg",
             "team_photo": "images/Witch_TeamPhoto.jpg",
             "difficulty": "8.5",
             "notes": "Chambers: 3 | Combination Locks: 0 | Electronic Puzzles: 13 | Total Puzzles: 21",
