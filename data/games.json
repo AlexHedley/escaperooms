@@ -1,6 +1,17 @@
 {
     "games": [
         {
+            "name": "Lab Heist",
+            "description": "Agents; Your mission, if you choose to accept it, is to infiltrate Durham Bio Laboratories and steal Dr Norman Atkinson's secret formula. Unfortunately you have triggered the security system which is slowly filling the laboratory with toxic fumes. Can you Escape with the data and the life of your team?\nLab Heist is an intense game which will get every member of the family's blood pumping. Lab Heist has been a hugely successful game, a real challenge for players of all abilities!",
+            "time": "44:47",
+            "date": "1st June 2025",
+            "link": "https://www.escapedurham.co.uk/lab-heist",
+            "image": "images/LabHeist.png",
+            "team_photo": "images/LabHeist_TeamPhoto.jpg",
+            "players": "3",
+            "venue": "Escape Rooms Durham"
+        },
+        {
             "name": "Electric City",
             "description": "Newcastle upon Tyne, the first city in the world to be lit by electricity. But dark forces are determined to ensure that it never sees the light of day.",
             "time": "50:22",
