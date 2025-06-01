@@ -55,31 +55,6 @@
                 <div class="row justify-content-md-center">
                     <div class="">
 
-                        <table id="results" class="sortable">
-                            <thead>
-                                <tr>
-                                    <th>Date</th>
-                                    <th>Name</th>
-                                    <th>Time</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr ng-repeat="game in games">
-                                    <td>{{game.date}}</td>
-                                    <td>{{game.name}}</td>
-                                    <td>{{game.time}}</td>
-                                </tr>
-                            </tbody>
-                        </table>
-
-                    </div>
-                </div>
-
-                <br />
-
-                <div class="row justify-content-md-center">
-                    <div class="">
-
                         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                             <ol class="carousel-indicators">
                                 <li ng-repeat="game in games" data-target="#carouselExampleCaptions"
@@ -114,28 +89,6 @@
                 <div class="row">
                     <div ng-repeat="game in games | filter:searchText" class="col-md-3" style="margin-bottom: 50px;">
 
-                        <!-- <div class="flip-card" style="width: 20rem;">
-                            <div class="flip-card-inner">
-                                <div class="flip-card-front">
-                                    <img ng-src="{{game.image}}" class="card-img-top" alt="{{game.name}}">
-                                    <div class="card-body">
-                                        <h5 class="card-title">{{game.name}} <span
-                                                class="badge badge-secondary">{{game.time}}</span></h5>
-                                        <p class="card-text">{{game.description.substring(0, 200)}}</p>
-                                        <a ng-href="{{game.link}}" target="_blank" class="btn btn-dark">Official
-                                            Link</a>
-                                        <p class="card-text">{{game.difficulty}}</p>
-                                        <p class="card-text">{{game.suggested_players}} -> {{game.players}}</p>
-                                        <p class="card-text">{{game.venue}}</p>
-                                    </div>
-                                </div>
-                                <div class="flip-card-back">
-                                    <img src="{{game.team_photo}}" alt="{{game.name}}"
-                                        style="width:300px;height:300px;">
-                                </div>
-                            </div>
-                        </div> -->
-
                         <div class="card" style="width: 18rem">
                             <img ng-if="game.image.length > 0" ng-src="{{game.image}}" class="card-img-top"
                                 alt="{{game.name}}" />
@@ -148,7 +101,8 @@
                                     <!-- <img ng-src="images/venue/{{game.venue}}.png" alt="{{game.venue}}" width="16px" /> -->
                                     {{game.venue}}
                                 </h5>
-                                <p class="card-text">{{game.description.substring(0, 200)}}<span ng-if="game.description.length > 200">...</span></p>
+                                <p class="card-text">{{game.description.substring(0, 200)}}<span
+                                        ng-if="game.description.length > 200">...</span></p>
                                 <p class="card-text">{{game.difficulty}}</p>
                                 <p class="card-text">{{game.suggested_players}} -> {{game.players}}</p>
                                 <p class="card-text">{{game.venue}}</p>
@@ -159,7 +113,8 @@
 
                                 <a ng-href="{{game.link}}" target="_blank" class="btn btn-dark">Official Link</a>
                             </div>
-                            <img ng-if="game.team_photo.length > 0" ng-src="{{game.team_photo}}" class="card-img-top" alt="Team Photo" />
+                            <img ng-if="game.team_photo.length > 0" ng-src="{{game.team_photo}}" class="card-img-top"
+                                alt="Team Photo" />
                             <div class="card-footer text-muted">
                                 <div class="row" style="margin: 0 !important">
                                     <!-- <span class="col-sm-9">{{game.date | toDate | date:'mediumDate'}}</span> -->
@@ -171,6 +126,34 @@
                     </div>
                 </div>
 
+                <br />
+
+                <!-- Table -->
+                <div class="row justify-content-md-center">
+                    <div class="">
+
+                        <table id="results" class="sortable">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Name</th>
+                                    <th>Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="game in games">
+                                    <td>{{game.date}}</td>
+                                    <td>{{game.name}}</td>
+                                    <td>{{game.time}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+
+                <br />
+
             </div>
 
         </div>
@@ -179,7 +162,8 @@
 
     <footer class="footer">
         <div class="container">
-            <span class="text-muted">Alex Hedley.</span>
+            <span class="text-muted"><a href="https://AlexHedley.github.io/">Alex Hedley</a></span>
+            <span class="float-right"><i class="fab fa-github"></i> <a href="https://github.com/AlexHedley/escaperooms">GitHub</a></span>
         </div>
     </footer>
 
@@ -194,7 +178,7 @@
     <script src="js/vendor/angular.min.js"></script>
     <script src="js/vendor/angular-sanitize.js"></script>
     <script src="js/vendor/angular-filter.min.js"></script>
-    
+
     <script src="js/app.js"></script>
     <script src="js/filters.js"></script>
 </body>
