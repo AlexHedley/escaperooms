@@ -1,6 +1,19 @@
 {
     "games": [
         {
+            "name": "Demon Barber",
+            "description": "1785. The Constable on Fleet Street has received two unusual complaints: an awful stench coming from the local bakehouse oven and the disappearance of local gentlemen. Mrs Lovett at the Bakehouse was unable to shed any light on your investigation but was very helpful in providing some delicious meat pies. You head across the street to the barber shop where you expect to find Mr Todd, who Miss Lovett said would answer your questions whilst providing Fleet Street's closest shave.",
+            "time": "41:23",
+            "date": "29th December 2025",
+            "link": "https://www.escape.game/games",
+            "image": "images/DemonBarber.png",
+            "team_photo": "images/DemonBarber_TeamPhoto.jpeg",
+            "difficulty": "45%",
+            "suggested_players": "2-6",
+            "players": "4",
+            "venue": "Escape"
+        },
+        {
             "name": "Lab Heist",
             "description": "Agents; Your mission, if you choose to accept it, is to infiltrate Durham Bio Laboratories and steal Dr Norman Atkinson's secret formula. Unfortunately you have triggered the security system which is slowly filling the laboratory with toxic fumes. Can you Escape with the data and the life of your team?\nLab Heist is an intense game which will get every member of the family's blood pumping. Lab Heist has been a hugely successful game, a real challenge for players of all abilities!",
             "time": "44:47",
