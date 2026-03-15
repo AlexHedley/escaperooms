@@ -1,6 +1,18 @@
 {
     "games": [
         {
+            "name": "The Captains Vault",
+            "description": "You and your pirate crew have been hired for a heist. Little is know about the target item; all you have been told is that it's on a need to know basis and the East India Company is willing to pay a great deal for it. They have created you a 60 minute window to work your way in to this secret location and retrieve the mysterious object. Are you up for the challange? This game is not scary and is suitable for all ages",
+            "time": "41:42",
+            "date": "15th March 2026",
+            "link": "https://www.pirateescaperooms.co.uk/TheGame",
+            "image": "images/TheCaptainsVault.jpg",
+            "team_photo": "images/TheCaptainsVault_TeamPhoto.jpeg",
+            "difficulty": "🔒🔒🔒",
+            "players": "4",
+            "venue": "Pirate Escape"
+        },
+        {
             "name": "Demon Barber",
             "description": "1785. The Constable on Fleet Street has received two unusual complaints: an awful stench coming from the local bakehouse oven and the disappearance of local gentlemen. Mrs Lovett at the Bakehouse was unable to shed any light on your investigation but was very helpful in providing some delicious meat pies. You head across the street to the barber shop where you expect to find Mr Todd, who Miss Lovett said would answer your questions whilst providing Fleet Street's closest shave.",
             "time": "41:23",
